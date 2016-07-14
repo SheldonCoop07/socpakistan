@@ -7,7 +7,7 @@ var DATA = [];
     DATA.push(text);
     $('#myvalue').val('');    
     RenderJSON(DATA);
-   //save(DATA);    
+   save(DATA);    
     //load(DATA);     
         
     
