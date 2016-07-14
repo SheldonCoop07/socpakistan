@@ -1,0 +1,11 @@
+	SOME COMMON GIT COMMANDS
+
+
+
+git init .
+git add .
+git commit -m "first version"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+git push .
+git pull .
